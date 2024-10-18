@@ -7,7 +7,7 @@ Para a primeira parte da ponderada, eu desenvolvi o seguinte código:
 
 <div align="center">
 <sub>Figura 1 - Código do "blink" </sub><br>
-<img src="blink.png" width="80%" ><br>
+<img src="assets/blink.png" width="80%" ><br>
 </div>
 
 ### Vídeo de demonstração
@@ -63,5 +63,5 @@ void loop() {
 
 <div align="center">
 <sub>Figura 2 - Circuito do "Semáforo" </sub><br>
-<img src="circuito.png" width="80%" ><br>
+<img src="assets/circuito.png" width="80%" ><br>
 </div>
